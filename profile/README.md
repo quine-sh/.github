@@ -8,7 +8,7 @@ Quira is an _**operating system for OSS organisations**_ and a _**monetisation p
 
 Quira's mission is to expand the GDP of software creators and help them derive value from their time and skills in an LLM-driven world. To achieve this, we're designing sustainable monetisation experiences that enable developers to build both their expertise and reputation in the open.
 
-We're rapidly approaching a world with **1 billion developers**. Quira is building the economic infrastructure to support software-related work in this new era.
+We're rapidly approaching a world with **1 billion developers**. Quira is building the economic infrastructure to support software-related work and education in this new era.
 
 ## Do you want to learn more?
 
