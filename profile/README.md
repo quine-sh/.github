@@ -16,5 +16,10 @@ We're rapidly approaching a world with **1 billion developers**. Quira is buildi
 - [Documentation](https://docs.quira.sh).
 - [Quira for Organisations](https://orgs.quira.sh/)
 
+## Do you want to do something else?
+
+- [🐛 Report a bug or suggest a feature](https://github.com/quira-org/headquarters/issues/new/choose)
+- [🗨️ Start a new discussion](https://github.com/orgs/quira-org/discussions)
+
 
 _We_ ❤️  _open source_
